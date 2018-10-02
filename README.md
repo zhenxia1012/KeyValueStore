@@ -1,7 +1,8 @@
 # KeyValueStore
 
 ## Introduction
-Key-Value Store allows client to manages their data as well as its history on server side
+The key-value store implements the friend-list in a social network, where key is the username and value is a list of names of the friends of the user (key). The value could change over time for given user and this key-value store captures this dynamic nature of the social network.<br>
+Key-Value Store allows client to manages their data as well as its history on server side.
 
 ## Details
 ### LinkedMap
